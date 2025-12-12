@@ -4,7 +4,7 @@
 import csv
 
 CSV_PATH = "Atsumi2025_airtemp_7days.csv"
-TARGET_DATE = "2025-08-24"
+TARGET_DATE = "2025-11-06"
 
 temps = []
 
